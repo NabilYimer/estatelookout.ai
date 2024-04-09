@@ -45,7 +45,7 @@ estate_lookout/
 
 Contributions to Estate Lookout are welcome! Whether you're interested in fixing a bug, adding a new feature, or improving the project documentation, I'd love to have your help.
 
-Feel free to fork the repository, make your changes, and submit a pull request. I appreciate any contributions that help make OmniLightVision better for everyone.
+Feel free to fork the repository, make your changes, and submit a pull request. I appreciate any contributions.
 
 Let's collaborate and make Estate Lookout even better together! 🚀
 
