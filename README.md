@@ -7,8 +7,8 @@
   =================
 * [Video Demo](#VideoDemo)
 * [Dataset](#Dataset)
-* [Project Structure](#Project_Structure)
-* [Getting Started](#Getting_Started)
+* [Project Structure](#Project-Structure)
+* [Getting Started](#Getting-Started)
 
 
 ## Video Demo
