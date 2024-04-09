@@ -1,0 +1,10 @@
+# versions: "3"
+
+services:
+    estate-streamlit:
+        build: ./
+        # image: estate_lookout-estate-streamlit
+        ports: 
+            - 9090:8501
+        # volumns:
+        #     - ./app:/app
