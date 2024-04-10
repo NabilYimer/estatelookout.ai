@@ -1,10 +1,12 @@
-# versions: "3"
+version: '3.8'
 
 services:
     estate-streamlit:
-        build: ./
+        build: 
+            context: .  # the path to the directory containing the Dockerfile.
+            # dockerfile: Dockerfile
+            # platform: linux/amd64  # Specify the platform architecture here
         # image: estate_lookout-estate-streamlit
         ports: 
-            - 9090:8501
-        # volumns:
-        #     - ./app:/app
+            - 8501:8501
+

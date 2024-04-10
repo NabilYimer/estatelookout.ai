@@ -1,7 +1,6 @@
-# Exclude IPython notebook checkpoints
-.ipynb_checkpoints
 
 # Exclude Python bytecode files
 *.pyc
 
 config.txt
+
