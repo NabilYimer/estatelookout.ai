@@ -60,7 +60,7 @@ docker-compose up
 ```
 ## Web App
 deployment is done on streamlit.io
-- To access this app on streamlit [web app](estatelookoutai.streamlit.app)
+- To access this app on streamlit [web app](https://estatelookoutai.streamlit.app/)
 
 ## 🤝 Contributing
 
