@@ -8,7 +8,7 @@ sys.path.append("/mount/src/estatelookout.ai/model")
 from Listing_Model import Listing_Model
 
 
-PROPERTY_DATA_FILE = "/mount/src/estatelookout.ai/model"
+PROPERTY_DATA_FILE = "/mount/src/estatelookout.ai/data"
 
 def load_listings(search_query: str, sale_type=None, num_beds=None):
     
