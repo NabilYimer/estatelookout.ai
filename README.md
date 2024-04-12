@@ -12,7 +12,7 @@
 
 
 ## Video Demo
-![Demo](demo/estate_lookout-demo.gif)
+![find you dream home](https://github.com/NabilYimer/estatelookout.ai/assets/70453045/632396db-f37e-451d-826b-068f555055f7)
 
 
 ## Dataset
