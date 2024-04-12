@@ -12,7 +12,8 @@
 
 
 ## Video Demo
-...
+![find you dream home](https://github.com/NabilYimer/estatelookout.ai/assets/70453045/cfb896b0-c3c9-4afc-9ea9-2647385b085d)
+
 
 ## Dataset
 - The dataset was obtained by web scraping 1670 House listings from the [allsoppandallsopp.com](https://www.allsoppandallsopp.com/) website, adhering to their terms of service.Subsequent preprocessing and cleaning were conducted to refine the data for analysis.
@@ -57,6 +58,9 @@ cd estatelookout.ai.git
 ```
 docker-compose up
 ```
+## Web App
+deployment is done on streamlit.io
+- To access this app on streamlit [web app](estatelookoutai.streamlit.app)
 
 ## 🤝 Contributing
 
