@@ -4,6 +4,7 @@ pandas
 requests
 scikit-learn==1.4.1.post1
 streamlit==1.33.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.1/en_core_web_sm-3.2.1.tar.gz
 
 spacy==3.7.2
 spacy-legacy==3.0.12
