@@ -41,13 +41,7 @@ estate_lookout/
 └── README.md
 ```
 
-## Contributing
 
-Contributions to Estate Lookout are welcome! Whether you're interested in fixing a bug, adding a new feature, or improving the project documentation, I'd love to have your help.
-
-Feel free to fork the repository, make your changes, and submit a pull request. I appreciate any contributions.
-
-Let's collaborate and make Estate Lookout even better together! 🚀
 
 ## Getting Started
   Follow theses steps to set up the environment and run the application.
@@ -63,6 +57,16 @@ cd estatelookout.ai.git
 ```
 docker-compose up
 ```
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues_page](https://github.com/NabilYimer/estatelookout.ai/issues).
+
+## Show your support
+Give a ⭐️ if you like this project!
+
 
 ## Author
 * ```Nabil Yimer```
