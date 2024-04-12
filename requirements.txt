@@ -8,6 +8,4 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 
 
 spacy==3.0.0
-spacy-legacy==3.0.12
-spacy-loggers==1.0.5
-spacytextblob==4.0.0
+
